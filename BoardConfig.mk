@@ -36,7 +36,7 @@ BOARD_VENDORIMAGE_PARTITION_SIZE := 1048576000
 
 # Recovery
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.judyln
-TARGET_PREBUILT_RECOVERY_RAMDISK_CPIO := $(DEVICE_PATH)/ramdisk-recovery.cpio
+TARGET_PREBUILT_RECOVERY_RAMDISK_IMG := $(DEVICE_PATH)/ramdisk.img
 
 # inherit from the proprietary version
 -include vendor/lge/judyln/BoardConfigVendor.mk
