@@ -1,0 +1,38 @@
+ [
+ {
+  "Remote": "github",
+  "Repository": "ResurrectionRemix-Devices/android_device_lge_sdm845-common",
+  "Target_path": "device/lge/sdm845-common",
+  "Branch": "ten-rr"
+ },
+ {
+  "Remote": "github",
+  "Repository": "ResurrectionRemix-Devices/android_device_lge_judyln",
+  "Target_path": "device/lge/judyln",
+  "Branch": "ten-rr"
+ }, 
+ {
+  "Remote": "github",
+  "Repository": "ResurrectionRemix-Devices/proprietary_vendor_lge_judyln",
+  "Target_path": "vendor/lge/",
+  "Branch": "ten"
+ },
+ {
+  "Remote": "github",
+  "Repository": "ResurrectionRemix-Devices/android_hardware_lge",
+  "Target_path": "hardware/lge/",
+  "Branch": "ten"
+ },
+ {
+  "Remote": "github",
+  "Repository": "ResurrectionRemix-Devices/android_device_lge_common",
+  "Target_path": "devoce/lge/common",
+  "Branch": "ten"
+ },
+ {
+  "Remote": "github",
+  "Repository": "ResurrectionRemix-Devices/android_kernel_lge_sdm845",
+  "Target_path": "kernel/lge/sdm845",
+  "Branch": "new-markus"
+ }
+]
