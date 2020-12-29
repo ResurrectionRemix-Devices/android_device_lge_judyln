@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/evolution_judyln.mk
+    $(LOCAL_DIR)/lineage_judyln.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_judyln-userdebug \
-    evolution_judyln-eng
+    lineage_judyln-userdebug \
+    lineage_judyln-eng
